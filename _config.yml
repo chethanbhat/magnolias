@@ -1,0 +1,21 @@
+# Site settings
+title: Magnolias
+header-img: img/magnolia-bg.png
+description: "The flower was discovered by one botanist, and named after another; a stuffy old Frenchman named Pierre Magnol. All the history aside, magnolias, the entire species, are beautiful flowering trees, with rich history in America, and other countries. In the U.S., magnolias are a symbol of souther strength and romance."
+baseurl: "/magnolias"
+url: "https://chethanbhat.github.io/magnolias/"
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+source: .
+destination: ./_site
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
