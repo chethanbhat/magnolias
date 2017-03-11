@@ -2,11 +2,13 @@
 layout: page
 title: "Magnolia Trivia"
 description: "Magnolias make quite a few appearances in pop culture, especially in the southern US. Most famous of these, is the film Steel Magnolias"
-header-img: "img/white-magnolia.jpg"
+header-img: "img/white-magnolia.png"
 order: 5
 ---
 
 Magnolias make quite a few appearances in pop culture, especially in the southern US. Most famous of these, is the film Steel Magnolias, –which is more fully discussed on another page. If you haven’t seen it, you should. For more magnolia trivia, keep reading. You’ll be a hit at your next garden party or picnic, if only because you know more about magnolias than the average encyclopedia.
+
+![Magnolia Flower]({{site.baseurl}}/img/magnolias2.jpg)
 
 * Magnolia bark has amazing medicinal properties, and its been used in China for centuries; it even has practically applications in treating Alzheimer’s disease.
 * Sugar Magnolia is the second most live-played song by the Grateful Dead

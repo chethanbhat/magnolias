@@ -2,11 +2,13 @@
 layout: page
 title: "Caring & Cultivating Magnolias"
 description: "Magnolia trees are situated best in elevated areas, and they do well in acidic soil, which is why they’re found mostly in the south."
-header-img: "img/white-magnolia.jpg"
+header-img: "img/white-magnolia.png"
 order: 2
 ---
 
 So you wanna grow magnolias? Well, let’s get serious then! You’ve come to the right place! If you already have magnolia trees on your property, or if you want to purchase them and cultivate, to grow your own, then read on.
+
+![Magnolia Flower]({{site.baseurl}}/img/magnolias2.jpg)
 
 ### Caring for a Magnolia Tree ###
 

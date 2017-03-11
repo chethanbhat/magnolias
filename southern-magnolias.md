@@ -2,11 +2,13 @@
 layout: page
 title: "Southern Magnolias"
 description: "One of the best movies out there, period, is Steel Magnolias. The cast, characters, and story will make you laugh, cry, and you’ll feel better every time you see it, about life and death."
-header-img: "img/white-magnolia.jpg"
+header-img: "img/white-magnolia.png"
 order: 4
 ---
 
 One of the best movies out there, period, is **Steel Magnolias**. The cast, characters, and story will make you laugh, cry, and you’ll feel better every time you see it, about life and death. It actually started off as a popular stage play that premiered in 1987. In the play, there’s only the six women, –you never see the other chracters, you only hear about them in the dialogue, as the other women get their various salon needs fulfilled. It’s a period piece, really, since the days of the neighborhood salon are just about over. Nowadays, everyone just heads off to one of the ten thousand salons, barber shops, and spas that pop up as towns become cities, and suburbs expand.
+
+![Magnolia Flower]({{site.baseurl}}/img/magnolias1.jpg)
 
 The story follows the intertwined lives of six women; M’Lynn Eatenton, Shelby Eatenton (-Latcherie), Truvy Jones, Louisa “Ouiser” Boudreaux, Annelle Dupuy Desoto, and Clairee Belcher. Of course, to those of us who’ve seen it, they’re just Shelby, M’Lynn, Truvy, Ouiser, Annelle, and Clairee. The salon is in Truvy’s house, which she shares with her family, –the salon is sort of an addition. Truvy has a story, as do Clairee, Ouiser, and Annelle, but the main focus is on Shelby and her mother, M’Lynn. Shelby is a diabetic, and the story opens up on her getting ready to marry Kackson Latcherie. This is the same day Annelle arrives to work for Truvy. As married couples do, Shelby and Jackson desperately want to have children but the doctors warn against it, and M’Lynn offers opposition, worried for Shelby’s health.
 

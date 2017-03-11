@@ -2,11 +2,13 @@
 layout: page
 title: "Magnolias"
 description: "All the history aside, magnolias, the entire species, are beautiful flowering trees, with rich history in America, and other countries. In the U.S., magnolias are a symbol of souther strength and romance."
-header-img: "img/white-magnolia.jpg"
+header-img: "img/white-magnolia.png"
 order: 1
 ---
 
 As much as I would like to start off by telling you all about the rich history, mythological background, and discovery of the magnolia, I can’t. There just isn’t one. The flower was discovered by one botanist, and named after another; a stuffy old Frenchman named Pierre Magnol. His accomplishments were many, and I’m sure he had just as many hopes, dreams, and romances as everyone else, but he certainly didn’t lend any to the flower. The same goes for its discoverer, Charles Plumier, who lived primarily for the study of plants, leaving behind a manuscript chronicling the discoveries of his life in several thousand pages.
+
+![Magnolia Flower]({{site.baseurl}}/img/magnolias1.jpg)
 
 All the history aside, magnolias, the entire species, are beautiful flowering trees, with rich history in America, and other countries. In the U.S., magnolias are a symbol of souther strength and romance. The trees found here in America are a long, long list, full of scientific names, barely pronounceable. But the men and women in the world who have cultivated and cared for magnolias don’t dissect the trees, and many of them probably don’t attend a special university course specifically in order to learn everything there is to know about the flower, the species, or the plant.
 

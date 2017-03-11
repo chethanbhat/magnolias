@@ -2,11 +2,15 @@
 layout: page
 title: "Medicinal Uses of Magnolias"
 description: "Relief of cold symptoms, cutting down on coughs & mucous. Anxiety & stress. Upset stomach, stomach aches. Plaque build-up. Weight loss"
-header-img: "img/white-magnolia.jpg"
+header-img: "img/white-magnolia.png"
 order: 3
 ---
 
-Not only is the magnolia tree a symbol of the strength and beauty of the American south, it’s also been used as a traditional medicine for centuries. There have been, in comparison, fairly recent findings regarding the medicinal properties of magnolias, but before that, they had been used successfully in China for a variety of illnesses. Magnolias have existed on earth as a species for over 95 million years, so of course, at some point, someone noticed and decided to use the tree for something more than just decoration. The primary part of the tree used is the bark. Here are some of the most common medicinal uses:
+Not only is the magnolia tree a symbol of the strength and beauty of the American south, it’s also been used as a traditional medicine for centuries. There have been, in comparison, fairly recent findings regarding the medicinal properties of magnolias, but before that, they had been used successfully in China for a variety of illnesses. Magnolias have existed on earth as a species for over 95 million years, so of course, at some point, someone noticed and decided to use the tree for something more than just decoration. The primary part of the tree used is the bark.
+
+![Magnolia Flower]({{site.baseurl}}/img/magnolias3.jpg)
+
+Here are some of the most common medicinal uses:
 
 * Relief of cold symptoms, cutting down on coughs and mucous
 * Anxiety and stress; the magnolia bark has an effect on the function of cortisol, a chemical that the body uses to emotional balance
